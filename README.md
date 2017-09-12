@@ -80,8 +80,11 @@ admin.py
 Changelist
 ----------
 
+- 0.3.7.twisto.2
+    - merged fixes from @jsmesami
+
 - 0.3.7.twisto.1
-    - fixed jquery path
+    - fixed jquery path (by @lucaswiman)
     - removed duplicated parts of forms-nested.css (by @PetrDlouhy)
 
 - 0.3.7
